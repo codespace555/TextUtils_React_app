@@ -13,19 +13,19 @@ The TextUtils React App is a user-friendly web application designed to simplify 
 Follow the steps below to set up and run the TextUtils React App locally:
 
 1. Clone the repository:
+ ```
+ git clone https://github.com/codespace555/textutils_react_app.git
+```
+```
+ cd textutils-react-app
+```
+```
+ npm install
+```
+```
+ npm start
+```
 
-   ``
-   git clone https://github.com/codespace555/textutils_react_app.git
-```
-```
-cd textutils-react-app
-```
-```bash
-   npm install
-   ```
-```bash
-   npm start
-```
 
 Open your web browser and visit http://localhost:3000 to access the app.
 

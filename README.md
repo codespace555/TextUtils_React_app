@@ -16,11 +16,14 @@ Follow the steps below to set up and run the TextUtils React App locally:
 
    ```bash
    git clone https://github.com/codespace555/textutils_react_app.git
-
+```
+```
    cd textutils-react-app
-
+```
+```
    npm install
-
+   ```
+```
    npm start
    ```
 

@@ -15,13 +15,14 @@ Follow the steps below to set up and run the TextUtils React App locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/textutils-react-app.git
- ```bash
+   git clone https://github.com/codespace555/textutils_react_app.git
+
    cd textutils-react-app
- ```bash
-  npm install
- ```bash
+
+   npm install
+
    npm start
+   ```
 
 Open your web browser and visit http://localhost:3000 to access the app.
 
@@ -36,3 +37,6 @@ Open your web browser and visit http://localhost:3000 to access the app.
 2. Explore the various features available, including text transformation, word/character count, and sentiment analysis.
 
 3. Copy the modified text to your clipboard by clicking the "Copy" button.
+
+
+Enjoy using the TextUtils React App for efficient text processing and analysis!

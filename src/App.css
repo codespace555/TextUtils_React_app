@@ -1,0 +1,4 @@
+.active-link {
+    color: rgb(0, 255, 149); /* Customize the active link color */
+    font-weight: bold;
+  }
